@@ -1,0 +1,5 @@
+# Biblioteca para manipulação de arquivos e diretórios locais
+shutil # Parte da biblioteca padrão, não precisa ser instalada
+
+# Biblioteca para requisições HTTP em processos remotos
+requests==2.28.1

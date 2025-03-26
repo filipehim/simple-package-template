@@ -1,9 +1,8 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package autopy is used to:
+	- automatizar processos remotos e locais
 
 ## Installation
 
@@ -16,12 +15,12 @@ pip install autopy
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from autopy import local
+local.criar_diretorio()
 ```
 
 ## Author
-My_name
+Luiz Filipe
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
